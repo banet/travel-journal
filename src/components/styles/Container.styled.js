@@ -5,10 +5,7 @@ export const Container = styled.div`
     padding: 0 20px;
     margin: 0 20px;
     margin: 0 auto;
-    background-color: #ddd;
+    background-color: #fff;
 
-    img{
-        width:125px;
-        height:168px;
-    }
+   
 `
