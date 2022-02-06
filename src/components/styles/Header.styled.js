@@ -4,7 +4,8 @@ export const StyledHeader = styled.header`
    background-color: ${({theme}) => theme.colors.header};
    
    width:550px;
-
+   border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 
    h4 {
       font-size:14px;
